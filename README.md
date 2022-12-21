@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+🌱 I’m currently learning 
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+<br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basunepal&theme=horizon)
 
 <!--
