@@ -7,8 +7,7 @@
 <br /> <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basunepal&theme=horizon)
 <br />
-![Snake animation]
-(https://github.com/basunepal/basunepal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/basunepal/basunepal/blob/output/github-contribution-grid-snake.svg)
 
 
 
