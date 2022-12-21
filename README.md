@@ -3,7 +3,7 @@ I am familiar with these
 <br />
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=html, css, python, django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,django)](https://skillicons.dev)
 <br /> <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basunepal&theme=horizon)
 <br />
